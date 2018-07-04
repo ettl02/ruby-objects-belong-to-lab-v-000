@@ -1,3 +1,3 @@
-class Artist 
+class Artist
   artist = Artist.new
-end 
+end
